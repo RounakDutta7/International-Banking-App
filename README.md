@@ -3,7 +3,7 @@ Link: https://rounakdutta7.github.io/International-Banking-App/
 
 Test ID 1: dm, Password: 1111
 
-Test ID 2: pc, Password: 2222
+Test ID 2: dp, Password: 2222
 
 Test ID 3: rd, Password: 3333
 
