@@ -12,3 +12,4 @@ Test ID 3: rd, Password: 3333
 * Array Methods: map, filter, reduce, find, flat, flatMap, sort, findIndex
 * Internationalization of Numbers, Dates, Currencies
 * setTimeout, setInterval
+ 
